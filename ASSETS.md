@@ -4,7 +4,7 @@ Where to get every kind of asset a 5E game needs — battlemaps, tokens, art, st
 
 This file is a **directory of links**. Commercial and Patreon art/maps are linked, never mirrored: the files stay with their creators. Genuinely open data sets (SRD, Open5e, 5e-database) are marked **data importable (open license)** — those you can pull down and build on.
 
-**Already imported:** the companion repo [d123d/dnd](https://github.com/d123d/dnd) already holds local copies of the 5e-database JSON, the 5e-srd-api data set, the 5etools data, and the SRD 5.2.1 files — check there before importing anything twice.
+**Already imported:** the private companion repo `d123d/dnd` already holds local copies of the 5e-database JSON, the 5e-srd-api data set, the 5etools data, and the SRD 5.2.1 files — check there before importing anything twice.
 
 **Already in your stores:** the Google Drive `dnd-data` folder holds a `reference-art` library organized by source — Baldur's Gate 3, *Waterdeep: Dragon Heist*, *Dungeon of the Mad Mage*, *Tales from the Yawning Portal* — plus map and PDF collections and an `assets/fonts` folder. This index is the online end of those same shelves: where the files came from, and where to get more.
 
