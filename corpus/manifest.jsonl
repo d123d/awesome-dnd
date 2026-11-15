@@ -1,0 +1,14 @@
+{"id":"srd-5.2.1-markdown","name":"SRD 5.2.1 in Markdown","url":"https://github.com/downfallx/dnd-5e-srd-markdown","license":"CC-BY-4.0","tier":1,"format":"markdown","fetch":"git"}
+{"id":"srd-5.1-5.2-markdown","name":"SRD 5.1 + 5.2.1 in Markdown / Obsidian vault","url":"https://github.com/your5e/5e-srd-markdown","license":"CC-BY-4.0","tier":1,"format":"markdown","fetch":"git"}
+{"id":"srd-5.1-markdown","name":"SRD 5.1 in Markdown","url":"https://github.com/knghtbrd/dnd-system-reference-document-5.1","license":"CC-BY-4.0","tier":1,"format":"markdown","fetch":"git"}
+{"id":"srd-5.2.1-json-mcp","name":"SRD 5.2.1 structured JSON + MCP server","url":"https://github.com/adkinn/srd-5.2.1","license":"CC-BY-4.0","tier":1,"format":"json","fetch":"git"}
+{"id":"5e-database","name":"5e SRD database (JSON, SRD 5.1 + 5.2)","url":"https://github.com/5e-bits/5e-database","license":"MIT code; data CC-BY-4.0/OGL","tier":1,"format":"json","fetch":"git"}
+{"id":"5e-database-sqlite","name":"5e database as SQLite","url":"https://github.com/vkama/5e-database-sqlite","license":"MIT code; data CC-BY-4.0","tier":1,"format":"sqlite","fetch":"git"}
+{"id":"open5e-api-data","name":"Open5e API documents (SRD + open third-party, per-doc license)","url":"https://api.open5e.com/v2/documents/","license":"CC-BY-4.0 per document","tier":1,"format":"json-api","fetch":"api"}
+{"id":"dnd5eapi","name":"D&D 5e API (SRD-only data)","url":"https://www.dnd5eapi.co/api/2014","license":"MIT API; data OGL/CC-BY-4.0","tier":2,"format":"json-api","fetch":"api"}
+{"id":"a5e-srd","name":"Level Up A5E SRD","url":"https://a5esrd.com/a5esrd","license":"CC-BY-4.0 / ORC","tier":1,"format":"html","fetch":"manual"}
+{"id":"bfrd","name":"Black Flag Reference Document","url":"https://bfrd.net/","license":"ORC / CC-BY-4.0","tier":1,"format":"html","fetch":"manual"}
+{"id":"basic-fantasy","name":"Basic Fantasy RPG 4e core + supplements","url":"https://www.basicfantasy.org/","license":"CC-BY-SA-4.0","tier":1,"format":"pdf/odt","fetch":"manual"}
+{"id":"wikipedia-dnd","name":"Wikipedia D&D article set (see README Wikipedia section)","url":"https://en.wikipedia.org/wiki/Dungeons_%26_Dragons","license":"CC-BY-SA","tier":1,"format":"html","fetch":"manual"}
+{"id":"ose-srd","name":"Old-School Essentials SRD (Open Game Content only)","url":"https://ose.srd.wiki/","license":"OGL 1.0a","tier":2,"format":"html","fetch":"manual"}
+{"id":"13th-age-srd","name":"13th Age SRD (Open Game Content only)","url":"https://archive.org/details/13thAgeSystemReferenceDocument","license":"OGL 1.0a","tier":2,"format":"pdf/text","fetch":"manual"}
