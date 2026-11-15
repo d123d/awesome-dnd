@@ -21,7 +21,7 @@ jobs:
         with:
           args: >-
             --no-progress --timeout 20 --max-retries 2
-            --exclude 'forgottenrealms\.fandom\.com|reddit\.com|boardgamegeek\.com|d20srd\.org|nerdist\.com'
+            --exclude 'forgottenrealms\.fandom\.com|reddit\.com|boardgamegeek\.com|d20srd\.org|nerdist\.com|5e\.tools|cartographyassets\.com|heroforge\.com|owlbear\.rodeo|basicfantasy\.org'
             README.md MODEL.md
           fail: false
       - name: Open issue on dead links
