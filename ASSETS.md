@@ -50,7 +50,7 @@ Battlemaps, world/region maps, and the tools that make them.
 Character and monster tokens, paper minis, portraits, and miniature designers.
 
 - Forgotten Adventures — the token half of the map library above: thousands of top-down creature and character tokens on the [same site](https://www.forgotten-adventures.net/). *Free for personal use.*
-- [Devin Night — Immortal Nights](https://immortalnights.com/) — Top-down character and monster token packs, a VTT staple since the MapTool era. *Paid packs plus free packs; personal use.*
+- [Devin Night — Immortal Nights](https://immortalnights.com/) — Top-down character and monster token packs, a VTT staple since the MapTool era. The standalone store is closed; new work goes to [Patreon](https://www.patreon.com/c/devinnight) ($5/mo for 10,000+ tokens) and the Roll20 / DriveThruRPG / Fantasy Grounds marketplaces. *Personal use.*
 - [Printable Heroes](https://printableheroes.com/) — Printable paper miniatures and matching VTT tokens for monsters and heroes. *Free / pay-what-you-want, with a Patreon for the full set.*
 - [Paper Forge](https://www.patreon.com/paperforge) — Printable paper minis and tokens in a bold, readable style. *Patreon.*
 - [Retrograde Minis](https://retrogrademinis.com/) — Old-school-style paper minis and tokens, plus a free custom token/mini creator. *Free creator; packs via Patreon and stores.*
