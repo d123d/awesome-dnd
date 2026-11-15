@@ -1,4 +1,4 @@
-# Awesome D&D
+# Awesome D&D [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of **open, free, and open-source Dungeons & Dragons content** — SRDs, data, APIs, code, virtual tabletops, tools, games, asset packs, AI Dungeon Masters, images, music, adventures, and reference resources.
 
@@ -29,7 +29,6 @@ Only content that is legally open or free is listed as *content*: the SRDs under
 
 - [D&D SRD 5.1 + SRD 5.2.1 — D&D Beyond](https://www.dndbeyond.com/srd) — Official downloads for both SRDs plus the 5.1→5.2.1 conversion guide. *CC-BY-4.0 (SRD 5.1 also under OGL 1.0a).*
 - [SRD 5.2.1 PDF (direct)](https://media.dndbeyond.com/compendium-images/srd/5.2/SRD_CC_v5.2.1.pdf) — Full 2024-rules System Reference Document from Wizards of the Coast. *CC-BY-4.0.*
-- [Systems Reference Document — WotC official page](https://dnd.wizards.com/resources/systems-reference-document) — Official SRD source page.
 - [Level Up: Advanced 5E SRD (A5ESRD)](https://a5esrd.com/a5esrd) — EN Publishing's fully open, rewritten 5E SRD. *CC-BY-4.0 / OGL / ORC.*
 - [Black Flag Roleplaying](https://koboldpress.com/black-flag-roleplaying/) — Kobold Press's free, open 5E-based system behind Tales of the Valiant. *ORC / CC-BY-4.0.*
 - [Black Flag Reference Document (BFRD)](https://bfrd.net/) — Free online reference for Black Flag / Tales of the Valiant.
@@ -57,7 +56,7 @@ Star counts as of Nov 2026.
 - [your5e/5e-srd-markdown](https://github.com/your5e/5e-srd-markdown) — SRD 5.1 and 5.2.1 in Markdown: single files, sections, Obsidian vault. *CC-BY-4.0.*
 - [downfallx/dnd-5e-srd-markdown](https://github.com/downfallx/dnd-5e-srd-markdown) — D&D 5e (2024) SRD 5.2.1 in Markdown, complete reference.
 - [knghtbrd/dnd-system-reference-document-5.1](https://github.com/knghtbrd/dnd-system-reference-document-5.1) — SRD 5.1 in Markdown, per-topic files. *CC-BY-4.0.*
-- [adkinn/srd-5.2.1](https://github.com/cocoajamworld/srd-5.2.1) — SRD 5.2.1 structured JSON dataset plus a stdio MCP server. *CC-BY-4.0.*
+- [adkinn/srd-5.2.1](https://github.com/adkinn/srd-5.2.1) — SRD 5.2.1 structured JSON dataset plus a stdio MCP server. *CC-BY-4.0.*
 - [vkama/5e-database-sqlite](https://github.com/vkama/5e-database-sqlite) — 5e-bits JSON (SRD 5.1 + 5.2) repackaged as a validated SQLite database. *MIT code.*
 - [vorpalhex/srd_spells](https://github.com/vorpalhex/srd_spells) — All 5e SRD spells in one JSON list.
 - [All SRD monsters in one JSON (Gist)](https://gist.github.com/tkfu/9819e4ac6d529e225e9fc58b358c3479) — Single-file SRD monster data.
@@ -67,10 +66,12 @@ Star counts as of Nov 2026.
 
 ## Reference Sites & Resources
 
+- [donjon](https://donjon.bin.sh/) — The DM's utility belt: dungeon/inn/NPC generators, encounter and treasure tools, fantasy calendars, name generators. *Free.*
+
 - [5etools](https://5e.tools/) — Browser suite for 5e players and DMs: bestiary, spells, classes, loot generator, DM screen. *Fan reference tool, not official WotC; free.*
 - [Open5e](https://open5e.com/) — Open-source SRD reference site and API for 5e monsters, spells, classes and open third-party content.
 - [The Hypertext d20 SRD](https://www.d20srd.org/) — Indexed, hyperlinked SRDs for 3.5, 5e and Pathfinder. *OGL / open content.*
-- [D&D Beyond — Basic Rules](https://www.dndbeyond.com/sources/basic-rules) — Official free Basic Rules + SRD content with a free-tier character builder.
+- [D&D Beyond — Basic Rules](https://www.dndbeyond.com/sources/dnd/basic-rules-2014) — Official free Basic Rules + SRD content with a free-tier character builder.
 - [Roll20 5e SRD Compendium](https://app.roll20.net/forum/post/2877778/update-1-slash-26-5th-edition-srd-mega-update-new-sheet-new-compendium-plus-compendium-drag-and-drop-integration/) — Free SRD compendium and OGL character sheet at the free subscription level.
 - [D&D 5e API](https://www.dnd5eapi.co/) — Free, no-auth REST API for SRD-only 5e data.
 
@@ -81,7 +82,7 @@ Star counts as of Nov 2026.
 - [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) — Self-hosted app to reveal map areas, move tokens, roll dice, share notes.
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) — Physics-based 3D tabletop simulator in Godot. *MIT.*
 - [AleVersace/Vers](https://github.com/AleVersace/Vers) — Open-source VTT with grid-snapped tokens, measurements, reusable dice buttons. *AGPL-3.0.*
-- [Foundry VTT dnd5e system](https://github.com/foundryvtt/dnd5e) — Official 5e system for Foundry (Foundry itself is paid; the system is open). *MIT.*
+- Foundry VTT dnd5e system — official 5e system for Foundry; listed once under [Open Data, APIs & Top GitHub Code](#open-data-apis--top-github-code).
 - [Owlbear Rodeo Dice](https://github.com/owlbear-rodeo/dice) — Official 3D dice extension for Owlbear Rodeo. *GPL-3.0.*
 - [DominoPivot/obr-extensions](https://github.com/DominoPivot/obr-extensions) — Owlbear Rodeo extension collection via GitHub Pages.
 - [autorolltables](https://autorolltables.github.io/) — Auto-rolling random tables for tabletop RPGs. Repo: [autorolltables/autorolltables.github.io](https://github.com/autorolltables/autorolltables.github.io).
@@ -98,6 +99,7 @@ Star counts as of Nov 2026.
 - [Paul-Ladyman/dnd-battle-tracker](https://github.com/Paul-Ladyman/dnd-battle-tracker) — Offline web initiative and combat tracker for 5e. *MIT.*
 - [santiagoclv/dnd-combat-tracker](https://github.com/santiagoclv/dnd-combat-tracker) — Tablet-friendly combat tracker: initiative and HP, no keyboard needed.
 - [adventurerscodex/adventurerscodex](https://github.com/adventurerscodex/adventurerscodex) — Character sheet and campaign tool: "the next step in tabletop RPGs."
+- [Kobold Plus Fight Club](https://koboldplus.club/) — Encounter builder for 5e with XP budgeting and SRD + imported monster sources. *Free.*
 
 ## Generators & Map Tools
 
@@ -168,8 +170,8 @@ Star counts as of Nov 2026.
 
 ## Free Adventures & Supplements
 
-- [DMs Guild — Pay What You Want](https://www.dmsguild.com/browse.php?pwyw=true) — Community marketplace filtered to PWYW: *A Most Potent Brew*, *First Blush*, *An Ogre and His Cake* — set price to $0.
-- [DriveThruRPG — WotC free titles](https://www.drivethrurpg.com/browse/pub/44/Wizards-of-the-Coast) — WotC catalog including free items like *The Barber of Silverymoon*.
+- [DMs Guild — Pay What You Want](https://www.dmsguild.com/en/browse?pwyw=true) — Community marketplace filtered to PWYW: *A Most Potent Brew*, *First Blush*, *An Ogre and His Cake* — set price to $0.
+- [DriveThruRPG — WotC free titles](https://www.drivethrurpg.com/en/publisher/44/Wizards-of-the-Coast) — WotC catalog including free items like *The Barber of Silverymoon*.
 - [Free D&D One-Shots — Anvil & Ink](https://anvilnink.com/free-dnd-one-shots/) — Vetted genuinely-free one-shots, incl. Colville's *The Delian Tomb* and *A Wild Sheep Chase* (PWYW).
 - [Free Official D&D Resources — Nerdist](https://nerdist.com/article/free-dungeons-dragons-official-resources-adventures/) — Roundup of official free WotC material: *Defiance in Phlan*, *Adventure with Muk*, more.
 - [Rand Roll — Free Fantasy PDFs](https://www.randroll.com/guide-free-pdfs-fantasy/) — Guided list of free/PWYW fantasy, solo, city, dungeon and random-table PDFs on DriveThruRPG.
@@ -177,12 +179,15 @@ Star counts as of Nov 2026.
 
 ## Campaign Notes & Wikis
 
+- [The Homebrewery](https://homebrewery.naturalcrit.com/) — Write homebrew in Markdown, get documents that look like official 5e books. *Free.*
+- [GMBinder](https://www.gmbinder.com/) — Homebrew document builder in the official 5e style, with sharing and print/PDF export. *Free tier.*
+
 - [Obsidian TTRPG Community](https://github.com/Obsidian-TTRPG-Community) — Dice roller, statblocks and more D&D plugins for Obsidian.
-- [Obsidian Dice Roller (javalent)](https://github.com/javalent/dice-roller) — Inline dice rolling in notes: `dice: 2d6+3`.
+- [Obsidian Dice Roller](https://github.com/Obsidian-TTRPG-Community/dice-roller) — Inline dice rolling in notes: `dice: 2d6+3` (formerly javalent/dice-roller).
 - [fantasy-statblocks](https://github.com/Obsidian-TTRPG-Community/fantasy-statblocks) — ★502 — D&D-style statblocks inside Obsidian.
 - [dnd5e-markdown (Obsidian)](https://github.com/Obsidian-TTRPG-Community/dnd5e-markdown) — The 5e SRD in Markdown for Obsidian, plus homebrew space.
 - [Atlas VTT for Obsidian](https://atlas-vtt.dev/) — VTT inside Obsidian: maps, tokens, fog of war, dice, initiative; 5e presets. *AGPL.*
-- [rpgtex LaTeX template](https://github.com/rpgtex/DND-5e-LaTeX-Template) — Typeset homebrew books that look like official 5e.
+- rpgtex LaTeX template — typeset homebrew books that look like official 5e; listed once under [Open Data, APIs & Top GitHub Code](#open-data-apis--top-github-code).
 
 ## Learning & Community
 
@@ -190,7 +195,7 @@ Star counts as of Nov 2026.
 - [The Alexandrian](https://thealexandrian.net/about) — Justin Alexander's GM archive: Three Clue Rule, node-based design, Gamemastery 101.
 - [Matt Colville — Running the Game](https://www.youtube.com/@MattColville) — The free YouTube series that taught a generation to DM; home of *The Delian Tomb*.
 - [Miserlou/dnd-tldr](https://github.com/Miserlou/dnd-tldr) — ★687 — Dungeons & Dragons, too long; didn't read: the rules, condensed.
-- [Free RPGs — John H. Kim](http://www.darkshire.net/jhkim/rpg/freerpgs/fulllist.html) — 500+ free RPGs with author, description and format.
+- [Free RPGs — John H. Kim](https://www.darkshire.net/jhkim/rpg/freerpgs/fulllist.html) — 500+ free RPGs with author, description and format.
 - [Solo RPG Resources](https://robmaule.github.io/Solo-RPG-Resources-Revised/) — Solo systems, oracles and tools, incl. free Ironsworn.
 - [TTRPG Websites — Orey](https://orey.github.io/blog/links-en/) — Index of RPG forums, wikis, SRDs and publisher sites by system.
 
@@ -214,7 +219,7 @@ All *CC-BY-SA*.
 ## More Awesome Lists
 
 - [flamableconcrete/awesome-dnd](https://github.com/flamableconcrete/awesome-dnd) — ★307 — The original curated D&D resources list.
-- [TheMrEvil/awesome-ttrpg-tools](https://github.com/TheMrEvil/awesome-ttrpg-tools) — Awesome TTRPG tools.
+- [HenriqueLebre/awesome-ttrpg-tools](https://github.com/HenriqueLebre/awesome-ttrpg-tools) — Awesome TTRPG tools (successor to the removed TheMrEvil list).
 - [Zireael07/awesome-tabletop-rpgs](https://github.com/Zireael07/awesome-tabletop-rpgs) — Free and open-source tabletop RPGs.
 - [Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) — Ironsworn projects, tools and resources.
 - [Useful D&D links (Gist)](https://gist.github.com/markhamersma/94749e5d1398e6c34f5fb8e746d21cf6) — Community link list for play and prep.
@@ -226,4 +231,4 @@ This list is a directory of links. The list itself is released under CC0. Linked
 
 ## Contributing
 
-PRs welcome: one entry per PR, link must be live, content must be open-licensed or genuinely free, and say the license if you know it. Especially wanted: entries that are also clean **training-corpus sources** for [MODEL.md](MODEL.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md). Short version: one entry per PR, link must be live, content must be open-licensed or genuinely free, and say the license if you know it. Especially wanted: entries that are also clean **training-corpus sources** for [MODEL.md](MODEL.md).
