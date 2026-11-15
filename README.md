@@ -145,6 +145,7 @@ Star counts as of Nov 2026.
 
 ## Asset Packs, Art, Maps, Tokens & Images
 
+- [ASSETS.md](ASSETS.md) — The full asset index: maps, tokens, art, stats & data, handouts, VTT libraries, audio and generators, each with access and license notes.
 - [Game-icons.net](https://game-icons.net/) — 4,100+ free SVG icons: weapons, spells, creatures, items. *CC-BY 3.0, some CC0.*
 - [OpenGameArt.org](https://opengameart.org/) — Huge community library of 2D/3D art, tiles, sprites, music and SFX. *Per-asset CC0 / CC-BY / CC-BY-SA / GPL — check each.* [Fantasy search](https://opengameart.org/art-search-advanced?field_art_tags_tid=Fantasy&field_art_type_tid%5B0%5D=9&sort_by=count&sort_order=DESC&page=8).
 - [Kenney](https://kenney.nl/assets) — Thousands of sprites, tilesets, 3D models, UI and audio packs. *CC0, no credit required.*
