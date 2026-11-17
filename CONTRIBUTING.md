@@ -2,7 +2,7 @@
 
 One entry per pull request.
 
-- **Format:** `- [Name](URL) — One-line description. *License or free note.*`
+- **Format:** `` `- [Name](URL) — One-line description. *License or free note.*` ``
 - **Bar for entry:** open-licensed content, open-source software, or genuinely
   free resources. No pirated book text, no paywalled content presented as free.
 - **Verify the link** resolves before submitting. Dead links are removed by

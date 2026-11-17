@@ -72,11 +72,7 @@ Every source carries a per-document license entry in `corpus/manifest.jsonl`
 
 ## The Forgotten Realms variant (private)
 
-A second, private fine-tune adds the Realms corpus indexed by the companion
-repo **awesome-forgotten-realms**: the FR Wiki (CC-BY-SA), Wikipedia's Realms
-articles, and Dustin's private reference stores in Google Drive
-(`fantasy-world-private`). Private because the corpus mix and the game material
-around it are private — the model itself is never published with that data.
+A second, private fine-tune adds the Realms corpus indexed by **awesome-forgotten-realms** and stored in the private companion repos (**dnd** for the FR Wiki under CC-BY-SA, **dnd-library** for book texts and role files): Wikipedia's Realms articles, the FR Wiki, and Dustin's private reference stores in Google Drive (`fantasy-world-private`). Private because the corpus mix and the game material around it are private — the model itself is never published with that data.
 
 ## Deliverables
 
