@@ -39,6 +39,10 @@ Only content that is legally open or free is listed as *content*: the SRDs under
 - [OSRIC](https://www.mythmeregames.com/) — Retroclone of 1st-edition AD&D; OSRIC 3.0 rebuilt on CC-licensed SRD material.
 - [Swords & Wizardry](https://boardgamegeek.com/rpgfamily/18544/swords-and-wizardry-and-compatible-products) — Re-creation of the original 1974 game and its supplements. *OGL 1.0a.*
 - [Labyrinth Lord](https://en.wikipedia.org/wiki/Labyrinth_Lord) — Goblinoid Games B/X retroclone, free PDF, most content open. *OGL 1.0a.*
+- [Cairn](https://cairnrpg.com/) — Rules-light OSR adventure game about exploring a dark Wood; quick random characters, deadly delves. Full text free. *CC-BY-SA 4.0.*
+- [Worlds Without Number](https://www.drivethrurpg.com/en/product/348791/worlds-without-number) — Sine Nomine's OSR-compatible fantasy game: gritty sword-and-sorcery rules plus hundreds of pages of system-neutral worldbuilding, faction and adventure tools. *Free edition.*
+- [Dungeon World SRD](https://www.dungeonworldsrd.com/) — Full text of the Powered-by-the-Apocalypse fantasy game: moves, classes, monsters, GM tools. *CC-BY 3.0.*
+- [Ironsworn](https://www.ironswornrpg.com/) — Solo, co-op and guided dark-fantasy quests in the Ironlands; free to download, with oracles and asset cards. Rulebook *CC-BY-NC-SA 4.0*, SRD *CC-BY 4.0.*
 
 ## Open Data, APIs & Top GitHub Code
 
@@ -182,6 +186,7 @@ Star counts as of Nov 2026.
 
 - [The Homebrewery](https://homebrewery.naturalcrit.com/) — Write homebrew in Markdown, get documents that look like official 5e books. *Free.*
 - [GMBinder](https://www.gmbinder.com/) — Homebrew document builder in the official 5e style, with sharing and print/PDF export. *Free tier.*
+- [Kanka](https://kanka.io/) — Collaborative worldbuilding and campaign manager: characters, locations, timelines, maps and journals. Source at [owlchester/kanka](https://github.com/owlchester/kanka). *Free tier; source-available, self-hostable.*
 
 - [Obsidian TTRPG Community](https://github.com/Obsidian-TTRPG-Community) — Dice roller, statblocks and more D&D plugins for Obsidian.
 - [Obsidian Dice Roller](https://github.com/Obsidian-TTRPG-Community/dice-roller) — Inline dice rolling in notes: `dice: 2d6+3` (formerly javalent/dice-roller).
