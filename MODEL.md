@@ -28,6 +28,7 @@ Every source carries a per-document license entry in `corpus/manifest.jsonl`
 - SRD 5.2.1 and SRD 5.1 (CC-BY-4.0, Wizards of the Coast)
 - Level Up A5E SRD (CC-BY-4.0), Black Flag Reference Document (ORC / CC-BY-4.0)
 - Basic Fantasy RPG 4e (CC-BY-SA 4.0)
+- Cairn (CC-BY-SA 4.0), Dungeon World SRD (CC-BY 3.0), Ironsworn SRD (CC-BY 4.0)
 - Open5e open-licensed documents (per-document CC-BY-4.0)
 - Wikipedia D&D articles (CC-BY-SA) — lore, history, settings overviews
 - Public-domain art/text (Rackham etc.) for multimodal pairs, if vision is added
