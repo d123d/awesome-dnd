@@ -22,7 +22,7 @@ jobs:
           args: >-
             --no-progress --timeout 20 --max-retries 2
             --exclude 'forgottenrealms\.fandom\.com|reddit\.com|boardgamegeek\.com|d20srd\.org|nerdist\.com|5e\.tools|cartographyassets\.com|heroforge\.com|owlbear\.rodeo|basicfantasy\.org|drivethrurpg\.com|dmsguild\.com'
-            README.md MODEL.md
+            README.md MODEL.md ASSETS.md
           fail: false
       - name: Open issue on dead links
         if: github.event_name == 'schedule' && steps.lychee.outputs.exit_code != 0
