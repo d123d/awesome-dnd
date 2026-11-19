@@ -1,3 +1,5 @@
+> **Direction update (Nov 19, 2026):** the corpus mapped here now serves a bigger pipeline — D&D agents who *run* a Forgotten Realms game from this data, stage it in Blender 3D, film it, and finish it as cinema via MiniMax. The agent stack (SRD 5.2.1 loader, dmctl state engine, DM/Player/NPC contracts, MCP) lives in `d123d/dnd-open` — see its MISSION.md and ROADMAP.md. This document remains the plan for the D&D-only model that can power those agents; its license-tiered corpus rules still govern what may train what.
+
 # A Custom Model Trained Only on D&D Content
 
 Goal: a language model whose D&D knowledge comes **only** from openly licensed
