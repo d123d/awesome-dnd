@@ -12,3 +12,6 @@
 {"id":"wikipedia-dnd","name":"Wikipedia D&D article set (see README Wikipedia section)","url":"https://en.wikipedia.org/wiki/Dungeons_%26_Dragons","license":"CC-BY-SA","tier":1,"format":"html","fetch":"manual"}
 {"id":"ose-srd","name":"Old-School Essentials SRD (Open Game Content only)","url":"https://ose.srd.wiki/","license":"OGL 1.0a","tier":2,"format":"html","fetch":"manual"}
 {"id":"13th-age-srd","name":"13th Age SRD (Open Game Content only)","url":"https://archive.org/details/13thAgeSystemReferenceDocument","license":"OGL 1.0a","tier":2,"format":"pdf/text","fetch":"manual"}
+{"id": "cairn", "name": "Cairn (full rules text)", "url": "https://cairnrpg.com/", "license": "CC-BY-SA-4.0", "tier": 1, "format": "html", "fetch": "manual"}
+{"id": "dungeon-world-srd", "name": "Dungeon World SRD", "url": "https://www.dungeonworldsrd.com/", "license": "CC-BY-3.0", "tier": 1, "format": "html", "fetch": "manual"}
+{"id": "ironsworn-srd", "name": "Ironsworn SRD", "url": "https://www.ironswornrpg.com/", "license": "CC-BY-4.0", "tier": 1, "format": "html", "fetch": "manual"}
