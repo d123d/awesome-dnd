@@ -60,7 +60,7 @@ Star counts as of Nov 2026.
 - [your5e/5e-srd-markdown](https://github.com/your5e/5e-srd-markdown) — SRD 5.1 and 5.2.1 in Markdown: single files, sections, Obsidian vault. *CC-BY-4.0.*
 - [downfallx/dnd-5e-srd-markdown](https://github.com/downfallx/dnd-5e-srd-markdown) — D&D 5e (2024) SRD 5.2.1 in Markdown, complete reference.
 - [knghtbrd/dnd-system-reference-document-5.1](https://github.com/knghtbrd/dnd-system-reference-document-5.1) — SRD 5.1 in Markdown, per-topic files. *CC-BY-4.0.*
-- [adkinn/srd-5.2.1](https://github.com/adkinn/srd-5.2.1) — SRD 5.2.1 structured JSON dataset plus a stdio MCP server. *CC-BY-4.0.*
+- [adkinn/srd-5.2.1](https://github.com/adkinn/srd-5.2.1) — SRD 5.2.1 structured JSON dataset plus a stdio MCP server (`@adkinn/fifth-edition-srd-mcp`; monsters + conditions only — 322 monsters, 14 conditions). *CC-BY-4.0.*
 - [vkama/5e-database-sqlite](https://github.com/vkama/5e-database-sqlite) — 5e-bits JSON (SRD 5.1 + 5.2) repackaged as a validated SQLite database. *MIT code.*
 - [vorpalhex/srd_spells](https://github.com/vorpalhex/srd_spells) — All 5e SRD spells in one JSON list.
 - [All SRD monsters in one JSON (Gist)](https://gist.github.com/tkfu/9819e4ac6d529e225e9fc58b358c3479) — Single-file SRD monster data.
@@ -141,6 +141,7 @@ Star counts as of Nov 2026.
 - [claude-dnd (peonic)](https://www.peonic.net/projects/claude-dnd/) — Template for running full 5e campaigns with Claude Code as DM in the terminal; SRD included, persistent worlds via Git branches.
 - [1A7432/loreweaver](https://github.com/1A7432/loreweaver) — Self-hosted, world- and story-first AI Game Master for TTRPGs (D&D 5e).
 - [diceframe/diceframe](https://github.com/diceframe/diceframe) — Self-hostable AI tabletop RPG platform, multiple rule systems (D&D, CoC, freeform).
+- [Frichetten/Dungeons-and-Agents](https://github.com/Frichetten/Dungeons-and-Agents) — Reference pattern for agent campaign state: per-campaign SQLite + append-only event log + snapshot/transcript, every mutation forced through a `dmctl` CLI (agenda/campaign/clock/combat/dice/faction/item/npc/quest/recap/secret/state/validate/…). *No license file — pattern reference only.*
 - [procload/dnd-mcp](https://github.com/procload/dnd-mcp) — MCP server implementation of the D&D 5e API: resources, tools, prompts.
 - [frap129/lorekeeper-mcp](https://github.com/frap129/lorekeeper-mcp) — MCP server for semantic search/lookup of 5e data via the Open5e API.
 - [KoboldAI Client](https://github.com/KoboldAI/KoboldAI-Client) — Browser front-end for AI writing and AI Dungeon-style Adventure mode, local or remote models. *AGPL.*
