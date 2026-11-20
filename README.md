@@ -37,8 +37,8 @@ Only content that is legally open or free is listed as *content*: the SRDs under
 - [Basic Fantasy RPG](https://www.basicfantasy.org/) — Free B/X retroclone since 2006; rules, dozens of supplements and adventures all free. *CC-BY-SA 4.0 (4e).*
 - [Old-School Essentials SRD](https://ose.srd.wiki/) — OSE SRD in Markdown/wiki form; open game content under the OGL legal page [here](https://osesrd.opengamingnetwork.com/legal-information/).
 - [OSRIC](https://www.mythmeregames.com/) — Retroclone of 1st-edition AD&D; OSRIC 3.0 rebuilt on CC-licensed SRD material.
-- [Swords & Wizardry](https://boardgamegeek.com/rpgfamily/18544/swords-and-wizardry-and-compatible-products) — Re-creation of the original 1974 game and its supplements. *OGL 1.0a.*
-- [Labyrinth Lord](https://en.wikipedia.org/wiki/Labyrinth_Lord) — Goblinoid Games B/X retroclone, free PDF, most content open. *OGL 1.0a.*
+- [Swords & Wizardry](https://www.swordsandwizardry.com/) — Re-creation of the original 1974 game and its supplements. *OGL 1.0a.*
+- [Labyrinth Lord](https://goblinoidgames.com/) — Goblinoid Games B/X retroclone, free PDF, most content open. *OGL 1.0a.*
 - [Cairn](https://cairnrpg.com/) — Rules-light OSR adventure game about exploring a dark Wood; quick random characters, deadly delves. Full text free. *CC-BY-SA 4.0.*
 - [Worlds Without Number](https://www.drivethrurpg.com/en/product/348791/worlds-without-number) — Sine Nomine's OSR-compatible fantasy game: gritty sword-and-sorcery rules plus hundreds of pages of system-neutral worldbuilding, faction and adventure tools. *Free edition.*
 - [Dungeon World SRD](https://www.dungeonworldsrd.com/) — Full text of the Powered-by-the-Apocalypse fantasy game: moves, classes, monsters, GM tools. *CC-BY 3.0.*
@@ -46,13 +46,13 @@ Only content that is legally open or free is listed as *content*: the SRDs under
 
 ## Open Data, APIs & Top GitHub Code
 
-Star counts as of Nov 2026.
+Star counts as of Nov 20, 2026.
 
 - [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) — ★6.2k — Interactive, highly customizable fantasy world map generator. *MIT.*
 - [5e-bits/5e-database](https://github.com/5e-bits/5e-database) — ★943 — JSON database behind the D&D 5e API (archived, merged into the API monorepo). *MIT code; SRD data OGL/CC-BY.*
-- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) — ★653 — REST + GraphQL API for the 5e SRD, live at [dnd5eapi.co](https://www.dnd5eapi.co/). *MIT.*
-- [foundryvtt/dnd5e](https://github.com/foundryvtt/dnd5e) — ★610 — Official Foundry VTT 5e system with SRD 5.1 + 5.2 compendium packs. *MIT; SRD content CC-BY-4.0.*
-- [open5e/open5e](https://github.com/open5e/open5e) — ★460 — The Open5e reference site: SRD + open third-party 5e content.
+- [5e-bits/5e-srd-api](https://github.com/5e-bits/5e-srd-api) — ★654 — REST + GraphQL API for the 5e SRD, live at [dnd5eapi.co](https://www.dnd5eapi.co/). *MIT.*
+- [foundryvtt/dnd5e](https://github.com/foundryvtt/dnd5e) — ★611 — Official Foundry VTT 5e system with SRD 5.1 + 5.2 compendium packs. *MIT; SRD content CC-BY-4.0.*
+- [open5e/open5e](https://github.com/open5e/open5e) — ★459 — The Open5e reference site: SRD + open third-party 5e content.
 - [open5e/open5e-api](https://github.com/open5e/open5e-api) — ★220 — Django REST API behind open5e.com; live example: `https://api.open5e.com/v1/spells/`.
 - [rpgtex/DND-5e-LaTeX-Template](https://github.com/rpgtex/DND-5e-LaTeX-Template) — ★1.6k — LaTeX package to typeset beautiful 5e material.
 - [game-icons/icons](https://github.com/game-icons/icons) — ★1.4k — All 4,100+ SVG icons from game-icons.net. *CC-BY 3.0.*
@@ -62,7 +62,7 @@ Star counts as of Nov 2026.
 - [knghtbrd/dnd-system-reference-document-5.1](https://github.com/knghtbrd/dnd-system-reference-document-5.1) — SRD 5.1 in Markdown, per-topic files. *CC-BY-4.0.*
 - [adkinn/srd-5.2.1](https://github.com/adkinn/srd-5.2.1) — SRD 5.2.1 structured JSON dataset plus a stdio MCP server (`@adkinn/fifth-edition-srd-mcp`; monsters + conditions only — 322 monsters, 14 conditions). *CC-BY-4.0.*
 - [vkama/5e-database-sqlite](https://github.com/vkama/5e-database-sqlite) — 5e-bits JSON (SRD 5.1 + 5.2) repackaged as a validated SQLite database. *MIT code.*
-- [vorpalhex/srd_spells](https://github.com/vorpalhex/srd_spells) — All 5e SRD spells in one JSON list.
+- [vorpalhex/srd_spells](https://github.com/vorpalhex/srd_spells) — All 5e SRD spells in one JSON list. *Archived — read-only, data still available.*
 - [All SRD monsters in one JSON (Gist)](https://gist.github.com/tkfu/9819e4ac6d529e225e9fc58b358c3479) — Single-file SRD monster data.
 - [dnd-5e-core (PyPI)](https://pypi.org/project/dnd-5e-core/) — Offline Python rules engine with bundled SRD JSON: monsters, spells, classes, items, combat.
 - [dnd5epy (PyPI)](https://pypi.org/project/dnd5epy/) — Python client/docs for the dnd5eapi.co REST + GraphQL API. *MIT.*
@@ -116,7 +116,7 @@ Star counts as of Nov 2026.
 - [deadmate/foundry-vtt-simple-npc-generator](https://github.com/deadmate/foundry-vtt-simple-npc-generator) — Foundry dnd5e toolkit: NPC, encounter and shop generation.
 - [ebshimizu/5e-monster-maker](https://github.com/ebshimizu/5e-monster-maker) — Monster stat block builder for 5e.
 - [Mike-Risher/5e-DnD-Character-Generator](https://github.com/Mike-Risher/5e-DnD-Character-Generator) — JavaScript 5e character generator.
-- [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) — ★743 — Free, offline worldbuilding tool and local wiki for writers and GMs.
+- [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) — ★745 — Free, offline worldbuilding tool and local wiki for writers and GMs.
 
 ## Games
 
@@ -225,7 +225,7 @@ All *CC-BY-SA*.
 
 ## More Awesome Lists
 
-- [flamableconcrete/awesome-dnd](https://github.com/flamableconcrete/awesome-dnd) — ★307 — The original curated D&D resources list.
+- [flamableconcrete/awesome-dnd](https://github.com/flamableconcrete/awesome-dnd) — ★308 — The original curated D&D resources list.
 - [HenriqueLebre/awesome-ttrpg-tools](https://github.com/HenriqueLebre/awesome-ttrpg-tools) — Awesome TTRPG tools (successor to the removed TheMrEvil list).
 - [Zireael07/awesome-tabletop-rpgs](https://github.com/Zireael07/awesome-tabletop-rpgs) — Free and open-source tabletop RPGs.
 - [Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) — Ironsworn projects, tools and resources.
