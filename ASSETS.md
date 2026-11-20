@@ -4,7 +4,7 @@ Where to get every kind of asset a 5E game needs — battlemaps, tokens, art, st
 
 This file is a **directory of links**. Commercial and Patreon art/maps are linked, never mirrored: the files stay with their creators. Genuinely open data sets (SRD, Open5e, 5e-database) are marked **data importable (open license)** — those you can pull down and build on.
 
-**Already imported:** `d123d/dnd-open` holds the open-licensed SRD 5.2.1 JSON, 5e-database JSON, and 5e-srd-api data set; the private companion repos `d123d/dnd` and `d123d/dnd-library` hold the 5etools data — check there before importing anything twice.
+**Already imported:** `d123d/dnd-agent-stack` holds the open-licensed SRD 5.2.1 JSON, 5e-database JSON, and 5e-srd-api data set; the private companion repos `d123d/dnd` and `d123d/dnd-library` hold the 5etools data — check there before importing anything twice.
 
 **Already in your stores:** the Google Drive `dnd-data` folder holds a `reference-art` library organized by source — Baldur's Gate 3, *Waterdeep: Dragon Heist*, *Dungeon of the Mad Mage*, *Tales from the Yawning Portal* — plus map and PDF collections and an `assets/fonts` folder. This index is the online end of those same shelves: where the files came from, and where to get more.
 
@@ -70,7 +70,7 @@ Importable 5E data: bestiaries, spells, items, and the tools that author stat bl
 - [Open5e API](https://api.open5e.com/) — REST API over the Open5e data set: monsters, spells, items, classes. *Free. Data importable (open license).*
 - [Open5e on GitHub](https://github.com/open5e/open5e) — Site source; the data itself lives in the [open5e-api repo](https://github.com/open5e/open5e-api). *Open source.*
 - [D&D 5e API](https://www.dnd5eapi.co/) — REST + GraphQL API for SRD 5E data, no auth, no key. *Free. Data importable (SRD, CC-BY-4.0).*
-- [5e-database](https://github.com/5e-bits/5e-database) — The JSON data set behind the D&D 5e API. *MIT code; SRD data. Data importable (open license) — already imported in `d123d/dnd-open`.*
+- [5e-database](https://github.com/5e-bits/5e-database) — The JSON data set behind the D&D 5e API. *MIT code; SRD data. Data importable (open license) — already imported in `d123d/dnd-agent-stack`.*
 - [SRD downloads — D&D Beyond](https://www.dndbeyond.com/srd) — Official SRD 5.1 and SRD 5.2.1 PDFs plus the conversion guide. *Free. CC-BY-4.0. Data importable (open license).*
 - [Avrae](https://avrae.io/) — Discord bot for 5E play with a built-in SRD compendium and homebrew/import support. *Free.*
 - [Foundry VTT — dnd5e system](https://foundryvtt.com/packages/dnd5e) — The official 5E system for Foundry, with SRD compendium packs ready to import; source at [foundryvtt/dnd5e](https://github.com/foundryvtt/dnd5e). *System MIT; compendium content SRD CC-BY-4.0.*
@@ -84,7 +84,7 @@ Importable 5E data: bestiaries, spells, items, and the tools that author stat bl
 Spell and item data sets, and turning them into table-ready cards.
 
 - [Open5e API data set](https://github.com/open5e/open5e-api) — The spells, magic items, monsters and more behind Open5e, as structured data. *Open source. Data importable (open license).*
-- 5e-database — every SRD spell and item as JSON; listed under [Stats & Structured Data](#stats--structured-data), and already imported in `d123d/dnd-open`.
+- 5e-database — every SRD spell and item as JSON; listed under [Stats & Structured Data](#stats--structured-data), and already imported in `d123d/dnd-agent-stack`.
 - [Hardcodex](https://hardcodex.ru/) — Spell and magic-item card generator (English/Russian): pick from SRD data or your own, print decks. *Free.*
 - [RPG Cards](https://mephitrpg.github.io/rpg-cards/) — The maintained fork of crobi's card generator: define spell, item and monster cards as JSON, export printable PDFs. *Free, open source.*
 - Single-file SRD spell JSON — [vorpalhex/srd_spells](https://github.com/vorpalhex/srd_spells), listed under Open Data in the [README](README.md). *Data importable (SRD).*
